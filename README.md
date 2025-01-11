@@ -1,5 +1,5 @@
-Targeted Marketing Campaign Analysis |Power BI
-Project Overview
+📊 Targeted Marketing Campaign Analysis | Power BI Project Overview 📈
+
 
 This project utilizes Microsoft Power BI to analyze customer purchasing behaviors across various segments, focusing on age groups and income levels. The goal is to develop actionable insights for enhancing both online and offline sales efforts through targeted marketing strategies.
 Purpose
